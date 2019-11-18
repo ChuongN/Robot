@@ -1,5 +1,6 @@
 // This is for the BLEJoystick app for Android
 // Standard settings: A B X Y F B R L S-start C-Select
+// I'm going to change this
 #include <SoftwareSerial.h> 
 
 int E1 = 10; // enable - with PWM
